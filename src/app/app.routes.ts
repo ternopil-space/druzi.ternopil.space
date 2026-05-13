@@ -7,7 +7,7 @@ export const routes: Routes = [
 		data: {
 			meta: buildRouteMeta('/'),
 		},
-		loadComponent: () => import('./pages/home/home.component').then((m) => m.HomeComponent),
+		loadComponent: () => import('./pages/menu/menu.component').then((m) => m.MenuComponent),
 	},
 	{
 		path: 'menu',
@@ -43,14 +43,6 @@ export const routes: Routes = [
 			meta: buildRouteMeta('/rooms'),
 		},
 		loadComponent: () => import('./pages/rooms/rooms.component').then((m) => m.RoomsComponent),
-	},
-	{
-		path: 'navigation',
-		data: {
-			meta: buildRouteMeta('/navigation'),
-		},
-		loadComponent: () =>
-			import('./pages/navigation/navigation.component').then((m) => m.NavigationComponent),
 	},
 	{
 		path: 'gallery',

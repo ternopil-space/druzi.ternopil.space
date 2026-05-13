@@ -1,11 +1,10 @@
-import { NgOptimizedImage } from '@angular/common';
 import { ChangeDetectionStrategy, Component, computed, input, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { TranslateDirective } from '@wawjs/ngx-translate';
 
 @Component({
 	selector: 'app-image',
-	imports: [NgOptimizedImage, RouterLink, TranslateDirective],
+	imports: [RouterLink, TranslateDirective],
 	templateUrl: './image.component.html',
 	styleUrl: './image.component.scss',
 	changeDetection: ChangeDetectionStrategy.OnPush,

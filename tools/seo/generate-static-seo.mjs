@@ -10,7 +10,6 @@ const staticRoutes = [
 	'/',
 	'/favorites',
 	'/rooms',
-	'/navigation',
 	'/gallery',
 	'/sales',
 	'/articles',

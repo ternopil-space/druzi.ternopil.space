@@ -1,17 +1,102 @@
 [
 	{
-		"slug": "horeca-bar-service-photo",
-		"src": "gallery/demo-1.webp",
-		"alt": "Horeca bar service photo"
+		"slug": "druzi-photo-1",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG9tqdn933vz5mRvG6soz6o9J_oKwmunI0uWOcpRE55m5UTxDrfiTH2kbyFwenVWLEzFckYV8_ZxVolLWaNNimUC8Kppka-bhHwl536qLkvb7BJIC_e0eR0UeAOiIvk0MFft_uz2w=w203-h152-k-no",
+		"alt": "Druzi cafe photo 1"
 	},
 	{
-		"slug": "horeca-hotel-reception-photo-1",
-		"src": "gallery/demo-2.webp",
-		"alt": "Horeca hotel reception photo"
+		"slug": "druzi-photo-2",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHULv-WMEiS0vCOajcj_6GONH3w0bTtmEg3jWqlTumRTX9ihTFG8HbBBBgdvn98UoAHRAPOVpb2NlGLrrpQXnYPqwC9cZTsOb4jKtu_hL7fyGLphfaXXY-EMijH1igSJORD0E0=w203-h270-k-no",
+		"alt": "Druzi cafe photo 2"
 	},
 	{
-		"slug": "horeca-hotel-reception-photo-2",
-		"src": "gallery/demo-3.webp",
-		"alt": "Horeca hotel reception photo"
+		"slug": "druzi-photo-3",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGTzY-SbgbzZfsuURrXV2ltCwEM0ksowi97pKo4GrXajmwMBfYKb3i5TPaMQe3lSm5eMT6zAcSZ2V5nX4vSQRTqH2XlqG32KucrayPhGO4sGNE23Z1kSr3Usjjrvf708fQ6HY7RvmMhLIc=w203-h270-k-no",
+		"alt": "Druzi cafe photo 3"
+	},
+	{
+		"slug": "druzi-photo-4",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGjqLTOe6tF5t-x3li8Oh8j-zlybSt4tJocxaJMyy19uJ7wLRValuAasKXAIt1shSq3hS_2AQ_ZoArDFW7YM5aOPkVPwBprQ-62_nN7Ze7dzHwzSxTBzTqDdosobGqxcn7TNesw=w203-h270-k-no",
+		"alt": "Druzi cafe photo 4"
+	},
+	{
+		"slug": "druzi-photo-5",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgZI41n188OkLFTlJtcHTf7zXUtvRunOmhpnZrUYPZezkB5VpOdNLzoDgWmqoi-guPvsBTWwnWHq4SM-Op1gYXB8YR07LPsv0kQhptokVANVXkyeJw94frzVJZAYc_9QkKgV8=w203-h270-k-no",
+		"alt": "Druzi cafe photo 5"
+	},
+	{
+		"slug": "druzi-photo-6",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFv07CiZqIZNsml_qF0ASimuL6-AgPnJZboTNJOIFDAs6NhoscbCKkeO4YlBBNtkiGPCfyMJnLU1wPq-wsLDI_tg9ZtU9halYm-K8fc66UWKGeAW8QqNbCwiZ3Hg7Z4MGuF9UH9=w203-h270-k-no",
+		"alt": "Druzi cafe photo 6"
+	},
+	{
+		"slug": "druzi-photo-7",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEILj8CZ1CULGSJ52wgxcfOVGXROe8WkFZNdFwTTRb-sxhxw_DXz2BVPNo3kjkPntwD1JCv3p_O_K2GFHANULInd8rH82HDzYcEwyHIfrTrASwxmhy6sABNNUi-yiPGUPC1J_QvTWZdEE_u=w203-h270-k-no",
+		"alt": "Druzi cafe photo 7"
+	},
+	{
+		"slug": "druzi-photo-8",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFFs0Qc_AxPzhUGlPSTdLhF7rj-W361EoOOCa6kfuDC9b-3tZXLmEqMX2m6rmwRORyCCFnk-e7aMokBs8DQu3hCuOGTMlfMiWPb0IxGd_4-A9EZHJ6qzzqBXSsqW7fyE54S9eZE=w203-h270-k-no",
+		"alt": "Druzi cafe photo 8"
+	},
+	{
+		"slug": "druzi-photo-9",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGP_Yd87VN7g_ghTlQ7bWEAUxxHX4LZgjFwmAjr0wG9fOd8ul355htdYZFtEU2y0eUvEntq55zkUgKc6GxL9WDIqOe_9w6bbw5NNrEr1OLwZQuKlQPDQneI6wuI4Q62SF9NKmXwT9jjAcVt=w203-h270-k-no",
+		"alt": "Druzi cafe photo 9"
+	},
+	{
+		"slug": "druzi-photo-10",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGP_LG48zErbCsVEQzOD_mZqhDaBudCCVd9xoDlJ_a6cEKRDldPcB6f9pBkbCHVL8_8YjlQ-yCJCgIISmCN7psrSW1VxOz7Bf2fK77_bhAXGhrBbdCcF7JRO89FtCHrin_ccmaGOg=w203-h360-k-no",
+		"alt": "Druzi cafe photo 10"
+	},
+	{
+		"slug": "druzi-photo-11",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHMwohqUiYiXQPRHUkPjP9JyfeUQv5lX41UVH7Whfdcj7yFeyLZgpg1AG8004TyBrQWbkbFnuyBRGPwK-xm80FOfTKUu4wi8Gxc6ZzBjzyzfk_GC02x62m0ZlIfXPGANQ4jHxeU=w224-h398-k-no",
+		"alt": "Druzi cafe photo 11"
+	},
+	{
+		"slug": "druzi-photo-12",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtN8nLWDwEcULVbQvAGWP-T5k1uHj2VIzxp58YyX8fy0YwGhTowrFUXiyG4rzTG5ZU_6Yd1JejriA-OT2D5NW00iQhZAPY8FFgSJiwCuxdXNBR3Uc8vpC6VSUEKSj46NTLIo7U=w203-h270-k-no",
+		"alt": "Druzi cafe photo 12"
+	},
+	{
+		"slug": "druzi-photo-13",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQNgP-miofFnnGJjLC3oBcLdLZoEWwq6-vBbA4eglpAjCB9LLTANghbhWTqxaYxGXRiudQ6Psc2blcvlSrBb6WetW-7zbL2r1YHlkcaWwnRmKnKwQGIuZM1VCm9X7dJsRA088g=w203-h270-k-no",
+		"alt": "Druzi cafe photo 13"
+	},
+	{
+		"slug": "druzi-photo-14",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvIuyhaZJfcTnY2o3Bjh0nGFpWVy2GgW1Oi0mL0oowNzPD2JkZ6LA7bVmezx0hrY_fm6IT5lHBV5Qb3YiigaiKWv21FWw_DTzcYgSQDCoRdEJwKfzGNVqacEHiZAnRm3138lwN6A=w203-h270-k-no",
+		"alt": "Druzi cafe photo 14"
+	},
+	{
+		"slug": "druzi-photo-15",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZX97LOVMRRWIh94RCxMtrDK_qQt2l6HIJ8emy2ioQw6qUyplcuH-A3TQEvK0mESQzuYkn0bjTGSVg5l6lFPv7Y0OGtn8MfGTNCVNKZNUtI84CRPOZrEPOi7wMWuaUzTgwcRow1MwozTg=w203-h270-k-no",
+		"alt": "Druzi cafe photo 15"
+	},
+	{
+		"slug": "druzi-photo-16",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG_-t5lgJmo5_c5goSnXsnqR8_8pDzQJv7VdNzv0_OpyaYNT3c2014ejpdoU7AZoFtnARGkXZMpK3uXv8GDXoGGmj5Ge4zj1lyKI2SQNWZ8hJ02Dx_INRPYi1RWE9NtAF5SAw-nsg=w203-h439-k-no",
+		"alt": "Druzi cafe photo 16"
+	},
+	{
+		"slug": "druzi-photo-17",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1d35oJThLtqb6aVaZOM9bRqZAoD7Z53u3Q45nDkdUU1GAyLRmEpOpLV6E4AAdKVJ4NVy5nDcyXAah1bECudll00VTRM5g9rHXzUYXF6Qw5cJBiblsO-oQrOfSXMkTOyrIvBRg=w203-h270-k-no",
+		"alt": "Druzi cafe photo 17"
+	},
+	{
+		"slug": "druzi-photo-18",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH16H34l2DvSKXjBHcHyaKzD_Tk0TnTRn-gH2lyz2V-h95lDU_cpKSDXSeAx53VWd0juHp7ufccVxx0Hvg_3eMfHijAGLWpvpxTRyk5i9GX-L0sERztCi_VE7naQVDCwnBqwtu72g=w203-h152-k-no",
+		"alt": "Druzi cafe photo 18"
+	},
+	{
+		"slug": "druzi-photo-19",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJLNMxuCHuDYX2F2hZLrD-c1_MwtXNDZ9W7G34G1MfGhwwRapixvgEr3VqA5FEmYmReXE1L4JbSTK_xvX0yvYc7_qrGLFZgHKrw8wmlpX-9ovyqRBA7IrZJPFAaFWy670BRbXL=w203-h439-k-no",
+		"alt": "Druzi cafe photo 19"
+	},
+	{
+		"slug": "druzi-photo-20",
+		"src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFOlxcwo-HkvPwSxzVNI666HpaGqxZA5HyIpPMoCFzMJw-Ejmr9Nn2tvpaMHvhZjcZnhJbvhc5gaPYANUd5DhtQPJIah79S1CxU6hoeEH3-DNM8wgGUvzN9oL6eeL5Mb9lx2xI5Jg=w203-h270-k-no",
+		"alt": "Druzi cafe photo 20"
 	}
 ]

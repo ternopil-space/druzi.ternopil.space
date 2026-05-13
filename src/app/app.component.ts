@@ -31,7 +31,6 @@ export class App {
 	);
 
 	protected readonly navItems = [
-		{ label: 'Nav', icon: 'navigation', route: '/navigation', exact: true },
 		{ label: 'Gallery', icon: 'photo_library', route: '/gallery', exact: true },
 		{ label: 'Socials', icon: 'share', route: '/socials', exact: true },
 		{ label: 'Favorite', icon: 'favorite', route: '/favorites', exact: true },
@@ -58,6 +57,13 @@ export class App {
 
 			const path = _normalizeTitlePath(this._router.url);
 
+			if (path === '/' || path === '/menu') {
+				this._title.setTitle(
+					companyProfile.pageSeo[path]?.title ?? companyProfile.defaultSeo.title,
+				);
+				return;
+			}
+
 			if (
 				path.startsWith('/dish/') ||
 				path.startsWith('/discount/') ||
@@ -82,13 +88,12 @@ export class App {
 }
 
 const _pageTitleKeys: Record<string, string> = {
-	'/': 'Horeca',
+	'/': 'Menu',
 	'/menu': 'Menu',
 	'/about': 'About us',
 	'/spa': 'Spa',
 	'/favorites': 'Favorites',
 	'/rooms': 'Rooms',
-	'/navigation': 'Navigation',
 	'/gallery': 'Gallery',
 	'/discounts': 'Discounts',
 	'/articles': 'Articles',
